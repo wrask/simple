@@ -1,8 +1,7 @@
 # simple
 Html + Sass + JS + Bootstrap 4 + gulp стартовый шаблон
 
-- устанавливаем gulp: npm i -g gulp
-- устанавливаем node-модули: npm i
-- стартуем шаблон: gulp
-
-gulp deploy - для выгрузки файлов на сервер, используя rsync
+- установка gulp: npm i -g gulp
+- установка node-модулей: npm i
+- запуск шаблона: gulp
+- выгрузка файлов на сервер: gulp deploy
