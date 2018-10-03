@@ -1,5 +1,6 @@
 # simple
-Html + Sass + JS + Bootstrap 4 стартовый шаблон
+Html + Sass + JS + Bootstrap 4 + gulp стартовый шаблон
 
-- установка: npm i
-- старт: gulp
+- устанавливаем gulp: npm i -g gulp
+- устанавливаем node-модули: npm i
+- стартуем шаблон: gulp
